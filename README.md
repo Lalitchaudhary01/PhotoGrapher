@@ -1,0 +1,4 @@
+-create react app
+- intall tailwindcss
+-create componets
+-create NavBar
