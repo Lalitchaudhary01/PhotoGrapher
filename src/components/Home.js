@@ -1,5 +1,5 @@
 import React from "react";
-import profileImage from "../assests/profile.png";
+import profileImage from "../assets/profile.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faLinkedin,
