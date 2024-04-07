@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import project1Image from "../assets/CSS.png";
-import project2Image from "../assets/profile.png";
-import project3Image from "../assets/Bootstrap.svg";
-import project4Image from "../assets/Git.svg";
+import project1Image from "../projectFile/food.png";
+import project2Image from "../projectFile/youtube.png";
+import project3Image from "../projectFile/netflix.png";
+import project4Image from "../projectFile/web.png";
 // Import other project images as needed
 
 const Projects = () => {
